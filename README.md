@@ -1,4 +1,4 @@
-                                                  # 🚀 CrxftRise - DB P4NEL (GitHub)
+# 🚀 CrxftRise - DB P4NEL (GitHub)
 
 ​
 ## 📥 Ne işe yarar?
