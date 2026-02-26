@@ -1,7 +1,4 @@
-# 🚀 CrxftRise - DB P4NEL (GitHub)
-
-[![Github All Releases](https://img.shields.io/github/downloads/kheiron-1337/craftrise/total)]()
-
+# 🚀 CrxftRise - DB P4NEL (GitHub) [![Github All Releases](https://img.shields.io/github/downloads/kheiron-1337/craftrise/total)]()
 ​
 ## 📥 Ne işe yarar?
 - Bu panel aracılığıyla CrxftRise'da arattığınız kullanıcının alt hesaplarını görüntüleyebilirsiniz.
